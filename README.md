@@ -11,5 +11,7 @@ You choose dialogs in story parts. Some of them changes ending of game. There is
 There is energy system which increase if you drink water and decrease when you start mini game.
 Like I said its not finished. It just has basic elements which I needed the learn.
 
+Cant upload game here because of file size limit. (Game is 238 mb)
+
 Here is the video that shows the little bit gameplay. Sorry for the side bars. It was part of my thesis.
 https://www.youtube.com/watch?v=kX65n6ygQIA&ab_channel=Watermark2077
